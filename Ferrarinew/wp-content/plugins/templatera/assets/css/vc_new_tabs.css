@@ -1,0 +1,51 @@
+/**
+ * This used until you have old version of visual composer
+ * @since visual composer 4.4 it should not be used.
+ */
+.vc_panel-tabs > ul .vc_edit-form-tab-control {
+    display: list-item;
+    list-style: none;
+    float: left;
+    position: relative;
+    top: 0;
+    margin: 7px 2px 0 0;
+    border: 1px solid transparent;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-width: 0;
+    padding: 0;
+    white-space: nowrap;
+    font-weight: normal;
+    color: #949494;
+}
+
+.vc_panel-tabs > ul .vc_edit-form-tab-control .vc_edit-form-link {
+    color: #949494;
+    float: left;
+    padding: 11px 15px;
+    text-decoration: none;
+    outline: none;
+    font-size: 12px;
+}
+
+.vc_panel-tabs > ul .vc_edit-form-tab-control.vc_active {
+    background: #ffffff;
+    font-weight: normal;
+    color: #595959;
+}
+
+.vc_panel-tabs > ul .vc_edit-form-tab-control.vc_active a {
+    color: #595959;
+}
+
+.vc_panel-tabs > ul > :first-child {
+    margin-left: 6px;
+}
+
+.vc_panel-tabs > .vc_edit-form-tab {
+    display: none;
+}
+
+.vc_panel-tabs > .vc_edit-form-tab.vc_active {
+    display: block;
+}

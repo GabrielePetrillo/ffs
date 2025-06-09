@@ -1,0 +1,213 @@
+/*
+ * Override theme icons to Material
+ */
+.l-popup-arrow.to_next:before,
+.l-popup-arrow.to_prev:before,
+.l-popup-closer:before,
+.mfp-arrow:before,
+.mfp-container:after,
+.owl-next:after,
+.owl-prev:after,
+.pagination .page-numbers.next:after,
+.pagination .page-numbers.prev:after,
+.paging_simple .paginate_button.next:after,
+.paging_simple .paginate_button.previous:before,
+.post_navigation .order_first .post_navigation-item-arrow:before,
+.post_navigation .order_second .post_navigation-item-arrow:before,
+.royalSlider .rsArrow:after,
+.rsFullscreenBtn:after,
+.star-rating span:before,
+.star-rating:before,
+.tablepress .sorting_asc:after,
+.tablepress .sorting_desc:after,
+.w-contacts-item:before,
+.w-dropdown-current .w-dropdown-item:after,
+.w-filter.state_desktop.layout_hor .w-filter-item-reset:before,
+.w-filter-list-closer:before,
+input[type=checkbox]:before,
+.w-grid .post_image.with_quote_icon:after,
+.w-grid-item.format-audio .post_image:after,
+.w-grid-item.format-link .post_title a:after,
+.w-grid-item.format-video .post_image:after,
+.w-header-show:before,
+.w-message-close:before,
+.w-nav-arrow:before,
+.w-nav-close:before,
+.w-person-links-item.type_email i:before,
+.w-popup-closer:before,
+.w-search-close:before,
+.w-search-open:empty:before,
+.w-sharing-item.copy2clipboard i:before,
+.w-sharing-item.email i:before,
+.w-socials-item.email i:before,
+.w-socials-item.rss i:before,
+.w-tabs.icon_chevron .w-tabs-section-control:before,
+.widget_layered_nav_filters li a:before,
+.widget_product_search form:after,
+.widget_search form:after,
+.woocommerce .stars a:before,
+.woocommerce-product-gallery__trigger:before {
+	font-family: 'Material Icons' !important;
+	font-feature-settings: 'liga'; /* support for EDGE */
+	}
+
+.l-popup-arrow.to_next:before,
+.w-nav.type_desktop .w-nav-list.level_2 .w-nav-arrow:before,
+.owl-next:after,
+.mfp-arrow.mfp-arrow-right:before,
+.royalSlider .rsArrow.rsArrowRight:after,
+.post_navigation .order_second .post_navigation-item-arrow:before,
+.pagination .page-numbers.next:after,
+.paging_simple .paginate_button.next:after {
+	content: 'keyboard_arrow_right' !important;
+	text-transform: none !important;
+	}
+.owl-prev:after,
+.mfp-arrow.mfp-arrow-left:before,
+.l-popup-arrow.to_prev:before,
+.rtl .w-nav.type_desktop .w-nav-list.level_2 .w-nav-arrow:before,
+.post_navigation .order_first .post_navigation-item-arrow:before,
+.pagination .page-numbers.prev:after,
+.royalSlider .rsArrow.rsArrowLeft:after,
+.paging_simple .paginate_button.previous:before {
+	content: 'keyboard_arrow_left' !important;
+	text-transform: none !important;
+	}
+.w-dropdown-current .w-dropdown-item:after,
+.w-nav-arrow:before,
+.w-tabs.icon_chevron .w-tabs-section-control:before {
+	content: 'keyboard_arrow_down' !important;
+	}
+.tablepress .sorting_asc:after,
+.tablepress .sorting_desc:after {
+	content: 'arrow_drop_down' !important;
+	font-size: 1.5rem;
+	}
+.w-contacts-item.for_email:before,
+.w-person-links-item.type_email i:before,
+.w-sharing-item.email i:before,
+.w-socials-item.email i:before {
+	content: 'email' !important;
+	vertical-align: top;
+	}
+.l-popup-closer:before,
+.mfp-container:after,
+.rsFullscreen .rsFullscreenBtn:after,
+.w-filter-list-closer:before,
+.w-filter.state_desktop.layout_hor .w-filter-item-reset:before,
+.w-message-close:before,
+.w-nav-close:before,
+.w-popup-closer:before,
+.w-search-close:before,
+.widget_layered_nav_filters li a:before {
+	content: 'close' !important;
+	}
+.w-search-open:empty:before,
+.widget_search form:after,
+.widget_product_search form:after {
+	content: 'search' !important;
+	}
+input[type=checkbox]:before {
+	content: 'check' !important;
+	font-size: 1.2em;
+	}
+.rsFullscreenBtn:after,
+.woocommerce-product-gallery__trigger:before {
+	content: 'zoom_in' !important;
+	}
+.w-grid-item.format-audio .post_image:after,
+.w-grid-item.format-video .post_image:after {
+	content: 'play_arrow' !important;
+	font-size: 2rem;
+	padding: 0;
+	width: 3.5rem;
+	}
+.w-grid .post_image.with_quote_icon:after {
+	content: 'format_quote' !important;
+	font-size: 3rem;
+	}
+.w-grid-item.format-link .post_title a:after {
+	content: 'open_in_new' !important;
+	}
+.w-header-show:before {
+	content: 'menu' !important;
+	}
+.w-contacts-item.for_address:before {
+	content: 'location_on' !important;
+	}
+.w-contacts-item.for_phone:before {
+	content: 'phone' !important;
+	}
+.w-contacts-item.for_mobile:before {
+	content: 'smartphone' !important;
+	}
+.w-socials-item.rss i:before {
+	content: 'rss_feed' !important;
+	vertical-align: top;
+	}
+.w-sharing-item.copy2clipboard i:before {
+	content: 'file_copy' !important;
+	vertical-align:top;
+	}
+.star-rating:before,
+.star-rating span:before {
+	content: '\grade\grade\grade\grade\grade' !important;
+	font-size: 0.92em;
+	font-weight: normal;
+	}
+.woocommerce .stars a:before {
+	content: 'grade' !important;
+	}
+
+/*
+ * Change some icons size
+ */
+.widget_search form:after,
+.widget_product_search form:after {
+	font-size: 1.5em !important;
+	right: -0.5em;
+	}
+.w-tabs.icon_chevron .w-tabs-section-control:before {
+	font-size: 1.5em;
+	margin-left: -0.17em;
+	}
+
+/*
+ * Pagination improvements
+ */
+.post_navigation.layout_sided .order_first .post_navigation-item-arrow:before {
+	transform: translate(1.15em,-50%);
+	}
+.post_navigation.layout_sided .order_second .post_navigation-item-arrow:before {
+	transform: translate(-2.12em,-50%);
+	}
+
+/*
+ * Override "Back to top" Button
+ */
+.w-toplink:not(.w-btn) {
+	border-radius: 50% !important;
+	}
+
+/*
+ * Add shadow to some elements
+ */
+.w-iconbox.style_circle .w-iconbox-icon {
+	text-shadow: 0 1px 1px rgba(0,0,0,0.25);
+	box-shadow: 0 -1px 0 rgba(0,0,0,0.12) inset, 0 1px 1px rgba(0,0,0,0), 0 2px 3px rgba(0,0,0,0);
+	transition: box-shadow 0.3s;
+	}
+.w-iconbox.style_circle .w-iconbox-link:active .w-iconbox-icon,
+.no-touch .w-iconbox.style_circle .w-iconbox-link:hover .w-iconbox-icon {
+	box-shadow: 0 -1px 0 rgba(0,0,0,0) inset, 0 2px 3px rgba(0,0,0,0.1), 0 4px 8px rgba(0,0,0,0.3);
+	}
+	.no-touch .w-iconbox.style_circle .w-iconbox-icon:before,
+	.no-touch .w-iconbox.style_outlined .w-iconbox-icon:before {
+		opacity: 0;
+		height: 100%;
+		transition: opacity 0.3s;
+		}
+	.no-touch .w-iconbox.style_circle .w-iconbox-link:hover .w-iconbox-icon:before,
+	.no-touch .w-iconbox.style_outlined .w-iconbox-link:hover .w-iconbox-icon:before {
+		opacity: 1;
+		}

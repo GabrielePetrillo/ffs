@@ -1,0 +1,88 @@
+10.03.2025 - ver 2.3.0
+   - Fix: Template save works properly
+
+11.06.2024 - ver 2.2.0
+   - Fix: Background attributes work properly for the Template templates
+   - Fix: Templatera works properly with PHP 8.2
+   - Fix: Templatera works properly when no title is added
+   - Fix: Script loading works properly in Templatera
+
+13.10.2022 - ver 2.1.0
+   - Update: Template rendering scope now is rendered page scope
+   - Fix: Advanced Custom Fields now is properly displayed on the page
+
+15.12.2021 - ver 2.0.5
+   - Fix: PHP Warning on activation
+
+07.04.2020 - ver 2.0.4
+   - Fix: Grid id param JS file loading in Templates editor
+
+15.07.2019 - ver 2.0.3
+   - Fix: Shortcodes custom CSS
+
+31.05.2019 - ver 2.0.2
+   - Update: Coding standards improvements
+
+17.05.2019 - ver 2.0.1
+   - Fix: Assets for Frontend Editor
+
+15.05.2019 - ver 2.0
+   - Update: Compliance with coding standards
+   - Fix: Effects on role settings post types
+
+09.03.2017 - ver 1.1.12
+   - Fixed: Capability role fore WP menus
+   - Fixed: WP reset loop (query) moved to the correct location
+
+07.04.2016 - ver 1.1.11
+   - Compatibility with WP 4.5 added
+
+09.02.2016 - ver 1.1.10
+   - Enhancement for theme authors (Added $plugin param in plugins_url() call)
+
+12.01.2016 - ver 1.1.9
+   - Fixed: Shortcodes created in Template and used as Template Elements
+
+23.12.2015 - ver 1.1.8
+   - Improvements with VC 4.9 functionality
+
+7.12.2015 - ver 1.1.7
+   - Compatibility with Visual Composer 4.9 added
+
+20.10.2015 - ver 1.1.6
+   - Added support for new Role manager
+
+2.10.2015 - ver 1.1.5
+   - Added extra ajax check
+
+29.09.2015 - ver 1.1.4
+   - Template saving mechanism optimized
+
+24.08.2015 - ver 1.1.3
+   - Bugs and compatibility with VC 4.7
+   - Added: Single Template Export - export only those templates you wish
+
+27.04.2015 - ver 1.1.2
+   - Bugs and compatibility with VC 4.5
+
+04.03.2015 - ver 1.1.1
+   - Fixed. Template access rules for post types
+
+16.01.2015 - ver 1.1
+   - Support for VC 4.4 added
+
+28.07.2014 - ver. 1.0.5
+   - Added support for VC 4.3
+
+11.03.2014 - ver 1.0.4
+   - bug fixes
+
+05.03.2014 - ver 1.0.3
+   - Adopted for Visual Composer 4.x
+   - CSS Themes removed
+
+12.09.2013 - ver 1.0.2
+   - XML Import: String "Imported" removed
+
+05.08.2013 - ver 1.0.1
+   - Update for WP 3.6

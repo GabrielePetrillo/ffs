@@ -1,0 +1,4 @@
+body.compose-mode .vc-templatera .templatera_shortcode,
+body.compose-mode .vc_templatera .templatera_shortcode {
+  opacity: 0.5;
+}

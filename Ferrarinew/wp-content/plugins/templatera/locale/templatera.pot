@@ -1,0 +1,186 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WPBakery Templatera\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-12 21:21+0300\n"
+"PO-Revision-Date: 2017-10-10 14:30+0300\n"
+"Last-Translator: Michael M <hello@wpbakery.com>\n"
+"Language-Team: WPBakery\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__;esc_attr_e;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/vc_template_manager.php:165 lib/vc_template_manager.php:826
+msgid "Templatera"
+msgstr ""
+
+#: lib/vc_template_manager.php:181
+msgid "Export VC Templates"
+msgstr ""
+
+#: lib/vc_template_manager.php:188
+msgid "Import VC Templates"
+msgstr ""
+
+#: lib/vc_template_manager.php:223
+msgid "Download Export File"
+msgstr ""
+
+#: lib/vc_template_manager.php:435
+msgid "Add template"
+msgstr ""
+
+#: lib/vc_template_manager.php:436 lib/vc_template_manager.php:1102
+#: lib/vc_template_manager.php:1108
+msgid "Templates"
+msgstr ""
+
+#: lib/vc_template_manager.php:437
+msgid "Template"
+msgstr ""
+
+#: lib/vc_template_manager.php:438
+msgid "Edit Template"
+msgstr ""
+
+#: lib/vc_template_manager.php:439
+msgid "View Template"
+msgstr ""
+
+#: lib/vc_template_manager.php:440
+msgid "Search Templates"
+msgstr ""
+
+#: lib/vc_template_manager.php:441
+msgid "No Templates found"
+msgstr ""
+
+#: lib/vc_template_manager.php:442
+msgid "No Templates found in Trash"
+msgstr ""
+
+#: lib/vc_template_manager.php:652
+msgid "Save current layout as a template"
+msgstr ""
+
+#: lib/vc_template_manager.php:656
+msgid "Save template"
+msgstr ""
+
+#: lib/vc_template_manager.php:658
+msgid "Save your layout and reuse it on different sections of your website"
+msgstr ""
+
+#: lib/vc_template_manager.php:755
+msgid "Edit template"
+msgstr ""
+
+#: lib/vc_template_manager.php:760
+msgid "Delete template"
+msgstr ""
+
+#: lib/vc_template_manager.php:802 lib/vc_template_manager.php:811
+msgid "My Templates"
+msgstr ""
+
+#: lib/vc_template_manager.php:803 lib/vc_template_manager.php:812
+msgid "Append previously saved template to the current layout"
+msgstr ""
+
+#: lib/vc_template_manager.php:829
+msgid "Content"
+msgstr ""
+
+#: lib/vc_template_manager.php:833
+msgid "Select template"
+msgstr ""
+
+#: lib/vc_template_manager.php:835
+msgid "Choose template"
+msgstr ""
+
+#: lib/vc_template_manager.php:836
+msgid "Choose which template to load for this location."
+msgstr ""
+
+#: lib/vc_template_manager.php:840
+msgid "Use template scope for rendering"
+msgstr ""
+
+#: lib/vc_template_manager.php:843
+msgid "Yes"
+msgstr ""
+
+#: lib/vc_template_manager.php:846
+msgid ""
+"If checked, then template scope used for custom fields. By default it uses "
+"selected post scope."
+msgstr ""
+
+#: lib/vc_template_manager.php:850
+msgid "Extra class name"
+msgstr ""
+
+#: lib/vc_template_manager.php:852
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: lib/vc_template_manager.php:934
+msgid "Template Settings"
+msgstr ""
+
+#: lib/vc_template_manager.php:947
+msgid "Post types"
+msgstr ""
+
+#: lib/vc_template_manager.php:953
+msgid ""
+"Select for which post types this template should be available. Default: "
+"Available for all post types."
+msgstr ""
+
+#: lib/vc_template_manager.php:957
+msgid "Roles"
+msgstr ""
+
+#: lib/vc_template_manager.php:963
+msgid ""
+"Select for user roles this template should be available. Default: Available "
+"for all user roles."
+msgstr ""
+
+#: lib/vc_template_manager.php:1026 lib/vc_template_manager.php:1045
+msgid "Please enter template name"
+msgstr ""
+
+#: lib/vc_template_manager.php:1269
+msgid "Wrong template"
+msgstr ""
+
+#: templatera.php:21 templatera.php:27
+msgid "requires"
+msgstr ""
+
+#: templatera.php:21 templatera.php:27
+msgid "plugin to be installed and activated on your site."
+msgstr ""
+
+#: templatera.php:27
+msgid "version of"
+msgstr ""
+
+#: templatera.php:27
+msgid "Current version is"
+msgstr ""
+
+#: templatera.php:124
+msgid "Export"
+msgstr ""
