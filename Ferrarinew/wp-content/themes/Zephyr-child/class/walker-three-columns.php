@@ -23,7 +23,7 @@ class Custom_Walker_Nav_Menu extends Walker_Nav_Menu {
         $classes = empty($item->classes) ? array() : (array) $item->classes;
         $class_names = implode(' ', array_map('esc_attr', $classes));
 
-        $output .= '<li class="' . 'level-1' . $class_names . '">';
+        $output .= '<li class="' . $class_names . '">';
         $output .= '<a href="' . esc_url($item->url) . '">' . esc_html($item->title) . '</a>';
     }
 

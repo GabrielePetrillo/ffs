@@ -67,7 +67,7 @@ $immagine = $gruppo_campi['immagine_corso'];
 
 
 
-    <div style="margin: 0 auto">
+    <div style="margin: 0 auto" class="page-padding">
         <?php the_content(); ?>
     </div>
     

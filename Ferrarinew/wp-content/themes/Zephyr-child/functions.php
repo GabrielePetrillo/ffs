@@ -30,6 +30,10 @@ add_action('after_setup_theme', 'tema_zaphyr_register_menus');
 
 
 include_once('shortcode/menu_custom.php' );
+include_once('shortcode/polylang-switcher.php' );
+include_once('shortcode/faculty.php' );
+include_once('shortcode/flickr.php' );
 include_once('class/walker-three-columns.php' );
 include_once('class/MenuAlternativo.php' );
 include_once('class/Highlight.php' );
+include_once('class/Dynamic_Slider_Shortcode.php' );
